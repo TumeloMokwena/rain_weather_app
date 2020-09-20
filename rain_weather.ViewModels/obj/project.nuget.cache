@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecSkmHqI0BlRDpmzrhvpfy4lCnlK3Rb94wFXxKa2VdXHK5R/8pebCmX7Vs2NZZA0rWEm83iRTkGZ6P2jspI0sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tumel\\source\\repos\\rain_weather_app\\rain_weather.ViewModels\\rain_weather.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tumel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross\\6.1.2\\mvvmcross.6.1.2.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross.platform\\5.7.0\\mvvmcross.platform.5.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MvvmCross.Platform 5.7.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MvvmCross.Platform",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

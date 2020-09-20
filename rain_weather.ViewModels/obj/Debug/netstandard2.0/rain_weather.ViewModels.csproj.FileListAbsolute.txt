@@ -1,0 +1,5 @@
+C:\Users\tumel\source\repos\rain_weather_app\rain_weather.ViewModels\bin\Debug\netstandard2.0\rain_weather.ViewModels.deps.json
+C:\Users\tumel\source\repos\rain_weather_app\rain_weather.ViewModels\bin\Debug\netstandard2.0\rain_weather.ViewModels.dll
+C:\Users\tumel\source\repos\rain_weather_app\rain_weather.ViewModels\obj\Debug\netstandard2.0\rain_weather.ViewModels.csprojAssemblyReference.cache
+C:\Users\tumel\source\repos\rain_weather_app\rain_weather.ViewModels\obj\Debug\netstandard2.0\rain_weather.ViewModels.AssemblyInfoInputs.cache
+C:\Users\tumel\source\repos\rain_weather_app\rain_weather.ViewModels\obj\Debug\netstandard2.0\rain_weather.ViewModels.AssemblyInfo.cs

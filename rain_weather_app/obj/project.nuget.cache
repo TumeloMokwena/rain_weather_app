@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rs8jKDYffuxmi+k1naACcf5W4ejAyPTK6z+jNpB/WHRaJ/CTxXUynl3WDY6K2Ehy4+I7V41ylexgGqIcNDnVNw==",
+  "dgSpecHash": "/aTFs5SckycThky49tABeD5LurRx00KFl+RFessp5hoTGg55Bm4rDEIOxfb2uPByLWpAGILOmMCeSKPmWZFlJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\tumel\\source\\repos\\rain_weather_app\\rain_weather_app\\rain_weather_app.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross\\7.0.1\\mvvmcross.7.0.1.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross.droid.support.core.ui\\6.4.2\\mvvmcross.droid.support.core.ui.6.4.2.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross.droid.support.design\\6.4.2\\mvvmcross.droid.support.design.6.4.2.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross.droid.support.fragment\\6.4.2\\mvvmcross.droid.support.fragment.6.4.2.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross.droid.support.v7.appcompat\\6.4.2\\mvvmcross.droid.support.v7.appcompat.6.4.2.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\mvvmcross.platform\\5.7.0\\mvvmcross.platform.5.7.0.nupkg.sha512",
     "C:\\Users\\tumel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\tumel\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
@@ -40,6 +46,7 @@
     "C:\\Users\\tumel\\.nuget\\packages\\xamarin.android.support.vector.drawable\\28.0.0.3\\xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
+    "C:\\Users\\tumel\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
     "C:\\Users\\tumel\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512"
   ],
   "logs": []

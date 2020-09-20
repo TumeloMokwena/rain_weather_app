@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rain_weather_app", "rain_weather_app.csproj", "{7BB80ABB-FF59-45B1-9A55-EBAEB7087338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rain_weather.ViewModels", "..\rain_weather.ViewModels\rain_weather.ViewModels.csproj", "{508FBBF5-9831-4F9D-8910-3D64AE0D9A95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{7BB80ABB-FF59-45B1-9A55-EBAEB7087338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BB80ABB-FF59-45B1-9A55-EBAEB7087338}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7BB80ABB-FF59-45B1-9A55-EBAEB7087338}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{508FBBF5-9831-4F9D-8910-3D64AE0D9A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508FBBF5-9831-4F9D-8910-3D64AE0D9A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508FBBF5-9831-4F9D-8910-3D64AE0D9A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508FBBF5-9831-4F9D-8910-3D64AE0D9A95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
